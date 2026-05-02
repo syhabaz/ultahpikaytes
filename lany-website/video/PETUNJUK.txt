@@ -1,8 +1,0 @@
-=== CARA MASUKKAN VIDEO KALIAN ===
-
-1. Rename file video kalian jadi: couple.mp4
-2. Taruh file itu di folder "video" ini
-3. Buka index.html di browser — video otomatis muncul di section retro TV!
-
-Tip: Video akan otomatis diputar, di-loop, tanpa suara (muted).
-Format yang didukung: .mp4 (direkomendasikan), .webm, .mov
